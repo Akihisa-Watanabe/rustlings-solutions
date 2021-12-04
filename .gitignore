@@ -4,4 +4,5 @@
 !/if/
 !quiz1.rs
 !/move_semantics/
+!/primitive_types/
 !.gitignore
