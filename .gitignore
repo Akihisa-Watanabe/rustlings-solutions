@@ -3,4 +3,5 @@
 !/functions/
 !/if/
 !quiz1.rs
+!/move_semantics/
 !.gitignore
