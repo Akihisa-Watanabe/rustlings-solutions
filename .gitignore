@@ -5,4 +5,5 @@
 !quiz1.rs
 !/move_semantics/
 !/primitive_types/
+!/structs/
 !.gitignore
