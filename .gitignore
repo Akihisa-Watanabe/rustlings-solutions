@@ -6,4 +6,5 @@
 !/move_semantics/
 !/primitive_types/
 !/structs/
+!/enums/
 !.gitignore
